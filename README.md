@@ -1,4 +1,4 @@
-⌨️ کیبورد مجازی (Virtual Keyboard)                   [مشاهده آنلاین] (https://parsa-salkhordeh.github.io/Virtual-Keyboard/)
+⌨️ کیبورد مجازی (Virtual Keyboard)                 مشاهده (https://parsa-salkhordeh.github.io/Virtual-Keyboard/)
 این پروژه یک کیبورد مجازی است که با کلیک روی کلیدها یا تایپ کردن روی کیبورد واقعی، متن   نمایش داده می‌شود و دکمه‌های متناظر روی کیبورد مجازی هایلایت می‌شوند.
 
 🛠️ تکنولوژی‌ها
